@@ -1,0 +1,2 @@
+#配置别名
+alias jump_login='expect 绝对路径/jump_login/sh/sv_test.sh'
