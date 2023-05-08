@@ -1,6 +1,6 @@
 #前缀
 PREFIX=rwx
 #后缀
-SUFFIX=xwr
+SUFFIX=
 #动态密码 秘钥
 SECRET=renwoxing68
